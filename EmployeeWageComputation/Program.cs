@@ -4,4 +4,5 @@ Console.WriteLine("Employee Wage Computation");
 //EmployeeWageComputation.EmpDailyWages.EmpWage();
 //EmployeeWageComputation.EmployeePartTime.PartTimeEmpWage();
 //EmployeeWageComputation.EmpWageUsingCase.EmpWageUsingSwitch();
-EmployeeWageComputation.CalculateWageForMonth.CalculateWagesFor20DaysInMonth();
+//EmployeeWageComputation.CalculateWageForMonth.CalculateWagesFor20DaysInMonth();
+EmployeeWageComputation.CalculateWageUsingWhileLoop.CalculateWageTill100HrsOr20IsReached();
